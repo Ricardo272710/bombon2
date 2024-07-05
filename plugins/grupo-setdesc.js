@@ -5,7 +5,7 @@ await conn.groupUpdateDescription(m.chat, `${args.join(" ")}`);
 conn.reply(m.chat, lenguajeGB.smsDest(), fkontak, m)
 //conn.sendButton(m.chat, wm, lenguajeGB.smsDest(), pp, [[lenguajeGB.smsConMenu(), `/menu`]], fkontak, m)
 }
-handler.command = /^setdesk|setdesc|newdesc|descripción|descripcion$/i
+handler.command = /^setdesk|setdesc|desc|newdesc|descripción|descripcion$/i
 handler.group = true
 handler.admin = true
 handler.botAdmin = true
