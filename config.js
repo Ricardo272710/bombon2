@@ -121,7 +121,7 @@ global.author = "𝘽𝙊𝙈𝘽𝙊𝙉 𝘽𝙊𝙏 🐉"
 // [EN] > ACCOUNTS AND BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
-global.gt = "Spider 𝗕𝗼𝘁 🐉"
+global.gt = "𝘽𝙊𝙈𝘽𝙊𝙉 𝘽𝙊𝙏 🐉"
 
 global.yt = "https://www.instagram.com/proyecto_r.a_"
 global.yt2 = "https://www.instagram.com/proyecto_r.a_"
