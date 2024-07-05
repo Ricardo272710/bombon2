@@ -85,16 +85,16 @@ const horarioFecha = lugarFecha.format('dddd, DD [de] MMMM [del] YYYY || HH:mm A
 let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.genero == 'Ocultado 🕶️' ? `🕶️` : user.genero == 'Mujer 🚺' ? `🚺` : user.genero == 'Hombre 🚹' ? `🚹` : '👤'} ${user.registered === true ? user.name : username}*${(conn.user.jid == global.conn.user.jid ? '' : `\n*SOY SUB BOT DE: https://wa.me/${global.conn.user.jid.split`@`[0]}*`) || ''}
 
 
-*〔🕷️SPIDER MAN BOT 🕸️〕
+*〔 🍬BOMBON BOT 🫧 〕
 
-╭━〔SPIDER MAN 〕━⬣
+╭━〔 BOMBON BOT 〕━⬣
 ┃ACTIVO: 03.06.2024
-┃   CREADORES:
-┃RICARDO—ANTHONY
+┃   DUEÑA:
+┃+52 56 4811 8032
 ╰━━━━━━━━━━━⬣
 ╭━〔COMANDOS〕━⬣
 ┃.menu | .comandos
-🕷️🕸️🕷️🕸️🕷️🕸️🕷️🕸️🕷️
+🍬🫧🍭🫧🍬🫧🍭🫧🍬
 ┃PERMANENTE | MENSUAL
 ╰━━━━━━━━━━━⬣
 
