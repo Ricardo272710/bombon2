@@ -123,9 +123,9 @@ global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
 global.gt = "Spider 𝗕𝗼𝘁 🐉"
 
-global.yt = ""
-global.yt2 = ""
-global.ig = ""
+global.yt = "https://www.instagram.com/proyecto_r.a_"
+global.yt2 = "https://www.instagram.com/proyecto_r.a_"
+global.ig = "https://www.instagram.com/proyecto_r.a_"
 global.md = "https://www.instagram.com/proyecto_r.a_"
 global.fb = "https://www.instagram.com/proyecto_r.a_"
 global.tk = "https://www.instagram.com/proyecto_r.a_"
@@ -133,19 +133,19 @@ global.ths = "https://www.instagram.com/proyecto_r.a_"
 global.paypal = 'https://www.instagram.com/proyecto_r.a_'
 global.asistencia = 'https://www.instagram.com/proyecto_r.a_' //Contacto
 
-global.nna = '' // CANAL UPDATE
-global.nn2 = '' // CANAL GataBot
-global.nna2 = '' // Help
-global.nn = '' // Grupo 1
-global.nnn = '' // Grupo 2
-global.nnnt = '' // Grupo 3
-global.nnntt = '' // Grupo 4
-global.nnnttt = '' // Grupo 5
-global.nnnttt1 = '' // Grupo 6 COL
-global.nnnttt2 = '' // Grupo 7 COL
-global.nnnttt3 = '' // Grupo 8 COL
-global.nnnttt4 = '' // Grupo 9 COL
-global.nnnttt5 = '' // A.T.M.M
+global.nna = 'https://www.instagram.com/proyecto_r.a_' // CANAL UPDATE
+global.nn2 = 'https://www.instagram.com/proyecto_r.a_' // CANAL GataBot
+global.nna2 = 'https://www.instagram.com/proyecto_r.a_' // Help
+global.nn = 'https://www.instagram.com/proyecto_r.a_' // Grupo 1
+global.nnn = 'https://www.instagram.com/proyecto_r.a_' // Grupo 2
+global.nnnt = 'https://www.instagram.com/proyecto_r.a_' // Grupo 3
+global.nnntt = 'https://www.instagram.com/proyecto_r.a_' // Grupo 4
+global.nnnttt = 'https://www.instagram.com/proyecto_r.a_' // Grupo 5
+global.nnnttt1 = 'https://www.instagram.com/proyecto_r.a_' // Grupo 6 COL
+global.nnnttt2 = 'https://www.instagram.com/proyecto_r.a_' // Grupo 7 COL
+global.nnnttt3 = 'https://www.instagram.com/proyecto_r.a_' // Grupo 8 COL
+global.nnnttt4 = 'https://www.instagram.com/proyecto_r.a_' // Grupo 9 COL
+global.nnnttt5 = 'https://www.instagram.com/proyecto_r.a_' // A.T.M.M
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 global.rg = '╰⊱✅⊱ *𝙍𝙀𝙎𝙐𝙇𝙏𝘼𝘿𝙊 | 𝙍𝙀𝙎𝙐𝙇𝙏* ⊱✅⊱╮\n\n'
