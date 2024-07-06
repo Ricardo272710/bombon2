@@ -105,7 +105,8 @@ global.moment = moment
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
 ["593979133620", '𝘽𝙊𝙈𝘽𝙊𝙉 𝘽𝙊𝙏 🐉', 1], 
-["50764206082", '  𝘽𝙊𝙈𝘽𝙊𝙉 𝘽𝙊𝙏 🐉', 1]]
+["50764206082", '  𝘽𝙊𝙈𝘽𝙊𝙉 𝘽𝙊𝙏 🐉', 1]
+["525648118032", '  𝘽𝙊𝙈𝘽𝙊𝙉 𝘽𝙊𝙏 🐉', 1]] 
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
